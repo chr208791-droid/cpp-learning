@@ -11,26 +11,26 @@ This repository records my C++ learning process for robotics development.
 
 ## Day 1
 
-Topics:
+Topics covered:
 
 - Hello World
 - Variables and basic data types
 - `std::cin` / `std::cout`
-- `if / else if / else`
+- `if / else`
 - `for`
 - `while`
 - Functions
 - Basic Git workflow
+- GitHub push workflow
 
 ## Mini Project: Obstacle Monitor
 
-The program reads an obstacle distance and outputs the robot state.
+A simple C++ program that reads the obstacle distance and outputs the robot status.
 
-Rules:
+### Logic
 
 - distance < 0.5 m → STOP
-- 0.5 m <= distance < 1.5 m → SLOW
-- distance >= 1.5 m → SAFE
+- distance >= 0.5 m → SAFE
 
 ## Build
 
