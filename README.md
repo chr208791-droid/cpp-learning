@@ -34,8 +34,6 @@ A simple C++ program that reads the obstacle distance and outputs the robot stat
 
 ## Build
 
-## Build
-
 ```bash
 g++ robot_practice.cpp -o robot_practice
 ```
@@ -90,3 +88,16 @@ cpp-learning/
 Compiled files such as `.exe`, `.o`, `.obj`, and `.out` are ignored by Git through `.gitignore`.
 
 This repository will continue to be updated as I learn more C++ topics related to robotics development.
+
+## Day 2
+
+Topics covered:
+
+- Pass by value
+- References
+- Pointers
+- `nullptr`
+- `const`
+- `const` references
+- Basic `std::vector`
+- Simple LiDAR distance analysis
