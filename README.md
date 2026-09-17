@@ -101,3 +101,16 @@ Topics covered:
 - `const` references
 - Basic `std::vector`
 - Simple LiDAR distance analysis
+
+## Day 3
+
+Topics covered:
+
+- Classes and objects
+- `public` / `private`
+- Constructors and destructors
+- Member initialization lists
+- `const` member functions
+- Object lifetime
+- RAII
+- Sensor / Frame practice
