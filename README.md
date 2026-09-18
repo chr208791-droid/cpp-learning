@@ -114,3 +114,19 @@ Topics covered:
 - Object lifetime
 - RAII
 - Sensor / Frame practice
+
+## Day 4
+
+Topics covered:
+
+- STL containers
+- `std::vector`
+- `std::map`
+- `std::unordered_map`
+- `std::sort`
+- `std::min_element`
+- `std::max_element`
+- `std::count_if`
+- Iterators
+- Lambda expressions
+- Sensor data statistics and lookup
