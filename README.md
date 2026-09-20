@@ -130,3 +130,18 @@ Topics covered:
 - Iterators
 - Lambda expressions
 - Sensor data statistics and lookup
+
+## Day 5-6
+
+Topics covered:
+
+- Linux file permissions
+- grep / find
+- Process management
+- Git branch and merge
+- CMake multi-file project
+- include / src / app structure
+- add_library
+- add_executable
+- target_include_directories
+- target_link_librariess
