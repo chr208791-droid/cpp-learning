@@ -145,3 +145,22 @@ Topics covered:
 - add_executable
 - target_include_directories
 - target_link_librariess
+
+## Day 7
+
+Topics covered:
+
+- `std::thread`
+- Thread creation and `join`
+- Concurrent execution
+- Data race
+- `std::mutex`
+- Critical sections
+- `std::lock_guard`
+- RAII-based locking
+- `std::unique_lock`
+- `std::condition_variable`
+- `wait` / `notify_one`
+- `std::queue`
+- Producer-consumer model
+- Thread-safe sensor data processing
